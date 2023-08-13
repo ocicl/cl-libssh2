@@ -5,5 +5,5 @@ Libssh2 bindings
 |---------+----------------------------------------------|
 | source  | git:https://github.com/alxchk/cl-libssh2.git |
 | commit  | 22481c1                                      |
-| systems | (libssh2)                                    |
+| systems | libssh2                                      |
 |---------+----------------------------------------------|
